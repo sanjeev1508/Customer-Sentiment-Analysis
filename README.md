@@ -56,4 +56,4 @@ Feel free to fork this repository, create a new branch, and submit a pull reques
 This project is licensed under the MIT License.
 
 ## 📧 Contact
-For any queries, reach out to [your-email@example.com](mailto:your-email@example.com).
+For any queries, reach out to [your-email@example.com](mailto:sanjeevikumar15@gmail.com).
