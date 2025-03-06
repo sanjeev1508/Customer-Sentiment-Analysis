@@ -29,19 +29,6 @@ This project is an AI-driven system that scrapes, processes, and analyzes Amazon
 - **ScrapingDog API** (for Amazon review scraping)
 - **Matplotlib & Seaborn** (for data visualization)
 
-## 🎯 Installation & Setup
-```bash
-# Clone the repository
-git clone https://github.com/your-username/amazon-review-analysis.git
-cd amazon-review-analysis
-
-# Create and activate virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-
-# Install dependencies
-pip install -r requirements.txt
-```
 
 ## 🚀 Running the App
 ```bash
