@@ -31,9 +31,6 @@ This project is an AI-driven system that scrapes, processes, and analyzes Amazon
 
 
 ## 🚀 Running the App
-```bash
-streamlit run app.py
-```
 After training the model in the Jupyter file, deploy using the command:
 ```bash
 streamlit run app1.py
